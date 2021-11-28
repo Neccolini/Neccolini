@@ -1,16 +1,19 @@
-### Hi there 👋
+### Trophy
 
-<!--
-**Neccolini/Neccolini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Neccolini" alt="Neccolini" /></a> </p>
 
-Here are some ideas to get you started:
+### Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Languages
+
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Neccolini&show_icons=true&locale=en&layout=compact" alt="Neccolini" /></p>
+
+### Stats
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Neccolini&show_icons=true&locale=en" alt="Necolini" /></p>
+
+### Streak
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Neccolini&" alt="Neccolini" /></p>
