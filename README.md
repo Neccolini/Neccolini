@@ -11,7 +11,7 @@
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Neccolini&show_icons=true&locale=en&layout=compact&count_private=false" alt="Neccolini" /></p>
 
 ### Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Neccolini&show_icons=true&locale=en" alt="Neccolini" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Neccolini&show_icons=true&locale=en&count_private=true" alt="Neccolini" /></p>
 
 ### Streak
 
