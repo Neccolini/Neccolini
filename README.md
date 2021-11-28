@@ -1,6 +1,6 @@
 ### Trophy
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Neccolini" alt="Neccolini" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Neccolini&count_private=true" alt="Neccolini" /></a> </p>
 
 ### Languages and Tools
 
@@ -15,4 +15,4 @@
 
 ### Streak
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Neccolini&" alt="Neccolini" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Neccolini&count_private=true" alt="Neccolini" /></p>
