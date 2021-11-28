@@ -8,11 +8,10 @@
 
 ### Languages
 
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Neccolini&show_icons=true&locale=en&layout=compact" alt="Neccolini" /></p>
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Neccolini&show_icons=true&locale=en&layout=compact&count_private=true" alt="Neccolini" /></p>
 
 ### Stats
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Neccolini&show_icons=true&locale=en" alt="Necolini" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Neccolini&show_icons=true&locale=en" alt="Neccolini" /></p>
 
 ### Streak
 
